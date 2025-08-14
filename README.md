@@ -74,5 +74,5 @@ Make sure you have Python 3 installed. Then run:
 
 
 
-python pomodoro.py
+python3 pomodoro.py
 
